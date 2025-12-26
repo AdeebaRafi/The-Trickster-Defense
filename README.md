@@ -36,6 +36,6 @@ The defense successfully prevents the attacker from building a high-quality copy
 
 My Goal
 
-I created this project to learn by doing. My goal wasn't to build a perfect production-ready system, but to get a hands-on understanding of an important AI security concept. It's a proof-of-concept that shows how clever defenses can protect intellectual property.
+I created this project to learn by doing. My goal wasn't to build a perfect production-ready system, but to get a hands-on understanding of an important AI security concept. It's a proof-of-concept that shows how clever defenses can protect intellectual property..
 
 Disclaimer: This is a simplified demo for educational purposes. Real-world implementations require more sophisticated detection mechanisms.
